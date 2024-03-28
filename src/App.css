@@ -1,0 +1,16 @@
+header{
+    display: flex;
+
+    background-color: black;
+    color: white;
+}
+.Card-container{
+    display: flex;
+ flex-wrap: wrap;
+ gap: 100px;
+ margin-left: 15px;
+}
+.card-img img{
+width: 300px;
+
+}
